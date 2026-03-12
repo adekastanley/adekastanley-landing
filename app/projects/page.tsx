@@ -11,52 +11,52 @@ gsap.registerPlugin(ScrollTrigger);
 
 const professionalProjects = [
 	{
-		title: "SafeMap",
+		title: "HSC Group landing page",
 		description:
-			"Security-focused application leveraging mobile infrastructure and backend integration.",
-		stack: "Next Js · React Native · Backend API",
-		role: "Fullstack Developer",
-		url: "#",
-		year: "2023",
+			"A modern, responsive landing page for HSC Group, a leading provider of healthcare solutions in Nigeria.  Site features a frontend and custom backend cms for managing images, content, collecting and storing data ",
+		stack: "Next Js · TypeScript · Tailwind CSS · shadcn/ui · motion · SQLite",
+		role: "Fullstack UX Developer and Designer",
+		url: "https://hscgroup.org/",
+		year: "2026",
 	},
+	{
+		title: "Sandef landing page",
+		description:
+			"A modern, responsive landing page for Sandef, a recognized Nigerian non-governmental organization (NGO) passionately committed to driving positive change..  Site features a frontend and custom backend cms for managing images, content, collecting and storing data ",
+		stack: "Next Js · TypeScript · Tailwind CSS · shadcn/ui · motion · SQLite",
+		role: "Fullstack UX Developer and Designer",
+		url: "https://sanhdef.org/",
+		year: "2026",
+	},
+];
+
+const personalProjects = [
 	{
 		title: "Munch Map",
 		description:
 			"Mobile application for tracking food vendors and prices in real time.",
 		stack: "Next Js · React Native · TypeScript · Redux Toolkit",
-		role: "Frontend Architect",
+		role: "System Designer and Developer",
 		url: "#",
-		year: "2024",
+		year: "2026",
 	},
 	{
 		title: "Eazy CBT",
 		description:
 			"Offline-first LAN-based testing system designed for reliability in low-connectivity environments.",
 		stack: "React · Local Network Architecture · Backend Logic",
-		role: "System Designer",
+		role: "System Designer and Developer",
 		url: "#",
-		year: "2022",
+		year: "2025",
 	},
-];
-
-const personalProjects = [
 	{
-		title: "MyStar Tracker",
+		title: "SafeMap",
 		description:
-			"Modular tracking interface built with performance-first frontend architecture.",
-		stack: "React · TypeScript · Redux Toolkit",
-		role: "Frontend Architect",
+			"Security-focused application leveraging mobile infrastructure and backend integration.",
+		stack: "Next Js · React Native · Backend API · Firebase",
+		role: "System Designer and Developer",
 		url: "#",
-		year: "2023",
-	},
-
-	{
-		title: "Concept UI",
-		description: "Awwwards style experimental structural interfaces.",
-		stack: "Next.js · GSAP · Tailwind",
-		role: "Creative Developer",
-		url: "#",
-		year: "2024",
+		year: "2025",
 	},
 ];
 

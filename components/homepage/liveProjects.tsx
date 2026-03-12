@@ -15,7 +15,7 @@ const liveProjects = [
 		url: "https://hscgroup.org/",
 	},
 	{
-		title: "Sandef",
+		title: "Sandef landing page",
 		description: "Fullstack - Nextjs 16, Tailwind CSS, Motion, SQLITE.   ",
 		url: "https://sanhdef.org/",
 	},
