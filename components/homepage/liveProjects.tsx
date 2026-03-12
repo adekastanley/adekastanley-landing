@@ -10,9 +10,9 @@ gsap.registerPlugin(ScrollTrigger);
 
 const liveProjects = [
 	{
-		title: "Project Alpha",
-		description: "Real-time data visualization dashboard.",
-		url: "#",
+		title: "HSC Group landing page",
+		description: "Fullstack - Nextjs 16, Tailwind CSS, Motion, SQLITE.  ",
+		url: "https://hscgroup.org/",
 	},
 	{
 		title: "Project Beta",
