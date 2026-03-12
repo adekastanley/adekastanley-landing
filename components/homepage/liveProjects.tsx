@@ -15,9 +15,9 @@ const liveProjects = [
 		url: "https://hscgroup.org/",
 	},
 	{
-		title: "Project Beta",
-		description: "E-commerce platform with head-less CMS.",
-		url: "#",
+		title: "Sandef",
+		description: "Fullstack - Nextjs 16, Tailwind CSS, Motion, SQLITE.   ",
+		url: "https://sanhdef.org/",
 	},
 	{
 		title: "Project Gamma",
