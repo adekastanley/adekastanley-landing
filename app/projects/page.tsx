@@ -20,9 +20,19 @@ const professionalProjects = [
 		year: "2026",
 	},
 	{
+		title: "AGM FOundation",
+		description:
+			"AGM Foundation works beside vulnerable communities with direct relief, local partnerships, and long-term systems that help families move beyond poverty with dignity. Currently in development",
+		stack:
+			"Vite + React · TypeScript · Tailwind CSS · shadcn/ui · motion · Wordpress",
+		role: "Fullstack UX Developer and Designer",
+		url: "https://agm-foundation.vercel.app/",
+		year: "2026",
+	},
+	{
 		title: "Sandef landing page",
 		description:
-			"A modern, responsive landing page for Sandef, a recognized Nigerian non-governmental organization (NGO) passionately committed to driving positive change..  Site features a frontend and custom backend cms for managing images, content, collecting and storing data ",
+			"A modern, responsive landing page for Sandef, a recognized Nigerian non-governmental organization (NGO) passionately committed to driving positive change..  Site features a frontend and custom backend cms for managing images, content, collecting and storing data. dev link https://sandef-website.t4ef.org/ to replace current site ",
 		stack: "Next Js · TypeScript · Tailwind CSS · shadcn/ui · motion · SQLite",
 		role: "Fullstack UX Developer and Designer",
 		url: "https://sanhdef.org/",
