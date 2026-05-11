@@ -15,16 +15,15 @@ const liveProjects = [
 		url: "https://hscgroup.org/",
 	},
 	{
-		title: "Sandef landing  (in dev - sanhdef.org)",
-		description:
-			"(dev link https://sandef-website.t4ef.org/ )Fullstack - Nextjs 16, Tailwind CSS, Motion, SQLITE.   ",
-		url: "https://sanhdef.org/",
+		title: "Technology for everyone foundation",
+		description: "Fullstack - Nextjs 16, Tailwind CSS, Motion, sqlite.   ",
+		url: "https://t4ef.org//",
 	},
 	{
-		title: "AGM Foundation (In dev)",
+		title: "AGM Foundation",
 		description:
 			"Fullstack -  Vite + React · TypeScript · Tailwind CSS · shadcn/ui · motion · Wordpress",
-		url: "https://agm-foundation.vercel.app",
+		url: "https://amosmagajifoundation.org/",
 	},
 ];
 

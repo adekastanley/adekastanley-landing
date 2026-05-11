@@ -22,22 +22,31 @@ const professionalProjects = [
 	{
 		title: "AGM FOundation",
 		description:
-			"AGM Foundation works beside vulnerable communities with direct relief, local partnerships, and long-term systems that help families move beyond poverty with dignity. Currently in development",
+			"AGM Foundation works beside vulnerable communities with direct relief, local partnerships, and long-term systems that help families move beyond poverty with dignity. ",
 		stack:
 			"Vite + React · TypeScript · Tailwind CSS · shadcn/ui · motion · Wordpress",
 		role: "Fullstack UX Developer and Designer",
-		url: "https://agm-foundation.vercel.app/",
+		url: "https://amosmagajifoundation.org/",
 		year: "2026",
 	},
 	{
-		title: "Sandef landing page",
+		title: "Pomade Consultancy Limited",
 		description:
-			"A modern, responsive landing page for Sandef, a recognized Nigerian non-governmental organization (NGO) passionately committed to driving positive change..  Site features a frontend and custom backend cms for managing images, content, collecting and storing data. dev link https://sandef-website.t4ef.org/ to replace current site ",
+			"A modern, responsive landing page for Pomade Consultancy Limited, a company that helps organizations build, optimize, and scale with innovative software, data intelligence, and mobile solutions.",
 		stack: "Next Js · TypeScript · Tailwind CSS · shadcn/ui · motion · SQLite",
 		role: "Fullstack UX Developer and Designer",
-		url: "https://sanhdef.org/",
+		url: "https://www.pomadelimited.com/",
 		year: "2026",
 	},
+	// {
+	// 	title: "Sandef landing page",
+	// 	description:
+	// 		"A modern, responsive landing page for Sandef, a recognized Nigerian non-governmental organization (NGO) passionately committed to driving positive change..  Site features a frontend and custom backend cms for managing images, content, collecting and storing data. dev link https://sandef-website.t4ef.org/ to replace current site ",
+	// 	stack: "Next Js · TypeScript · Tailwind CSS · shadcn/ui · motion · SQLite",
+	// 	role: "Fullstack UX Developer and Designer",
+	// 	url: "https://sanhdef.org/",
+	// 	year: "2026",
+	// },
 ];
 
 const personalProjects = [
