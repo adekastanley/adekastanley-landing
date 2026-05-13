@@ -18,7 +18,24 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
 	title: "Adeka Stanley's Portfolio",
-	description: "Adeka Stanley's Portfolio",
+	description:
+		"Fullstack Engineer specialized in React, Next.js, and Mobile Apps",
+	openGraph: {
+		title: "Adeka Stanley's Portfolio",
+		description:
+			"Fullstack Engineer specialized in React, Next.js, and Mobile Apps",
+		url: "https://adekastanley.vercel.app",
+		siteName: "Adeka Stanley",
+		locale: "en_US",
+		type: "website",
+	},
+	twitter: {
+		card: "summary_large_image",
+		title: "Adeka Stanley's Portfolio",
+		description:
+			"Fullstack Engineer specialized in React, Next.js, and Mobile Apps",
+		creator: "@cheshireville",
+	},
 };
 
 export default function RootLayout({
