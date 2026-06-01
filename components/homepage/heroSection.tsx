@@ -53,7 +53,7 @@ export default function HeroSection() {
 				{/* CTAs */}
 				<div className="hero-anim flex flex-col sm:flex-row gap-6 mt-4 items-center md:items-start w-full md:w-auto">
 					<a
-						href="/Stanley Adeka CV Updated.pdf"
+						href="/stanley_cv.pdf"
 						target="_blank"
 						rel="noopener noreferrer"
 						className="group relative inline-flex items-center justify-center px-8 py-4 text-sm font-medium tracking-wide text-background bg-foreground rounded-full overflow-hidden transition-all duration-300 hover:scale-[1.03] hover:-translate-y-[2px] hover:shadow-xl w-full sm:w-auto"
